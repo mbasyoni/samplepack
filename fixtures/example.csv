@@ -1,0 +1,4 @@
+Specimen,Batch,Recorded,Comment
+S-001,B-01,2026-10-01,"Synthetic reference, no measured data"
+S-002,B-01,2026-10-02,"Check storage metadata"
+S-003,B-02,2026-10-03,"Replicate label retained"
