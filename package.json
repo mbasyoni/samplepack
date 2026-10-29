@@ -1,0 +1,11 @@
+{
+  "name": "samplepack",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check core.mjs && node --check app.mjs"
+  },
+  "license": "MIT"
+}

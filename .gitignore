@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+.openai/
+dist/
+browser-evidence/
+AUDIT.md
+BROWSER_QA.md
+QA_STATUS.json
+TEST_RESULTS.txt
+SHA256SUMS.json
+*.zip
+.env
+.env.*
