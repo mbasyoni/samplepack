@@ -1,0 +1,5 @@
+Specimen,Batch,Recorded,Comment
+S-001,B-01,2026-10-01,Control
+S-001,B-01,2026-10-02,Duplicate identifier
+,B-02,2026-10-03,Missing identifier
+S-004,,03/10/2026,=1+1
